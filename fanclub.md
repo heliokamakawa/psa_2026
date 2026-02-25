@@ -11,3 +11,6 @@ Profº Dr. Hélio Kamaka
 
 [Software Fault Detection Algorithms Using Artificial Intelligence: A Review and Classification
 ](https://www.researchgate.net/publication/384749017_Software_Fault_Detection_Algorithms_Using_Artificial_Intelligence_A_Review_and_Classification)
+
+[Large Language Model Evaluation in 2025: Smarter Metrics That Separate Hype from Trust
+](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175021940.06537275)
